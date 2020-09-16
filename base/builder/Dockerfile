@@ -1,4 +1,4 @@
-FROM buildpack-deps:bionic
+FROM buildpack-deps:focal
 
 ENV LC_ALL C.UTF-8
 ENV DEBIAN_FRONTEND=noninteractive
